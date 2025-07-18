@@ -53,7 +53,7 @@ This dashboard was created as part of a **Data Analytics internship**, showcasin
 
 ## 🔗 Project Link
 
-📌 GitHub Repository: *[Add your link here]*  
+📌 GitHub Repository: https://github.com/Sarwesh0206/HUL-Stock-Analysis/tree/main
 📌 Power BI Dashboard Screenshots: Included in `assets/` folder
 
 ---
